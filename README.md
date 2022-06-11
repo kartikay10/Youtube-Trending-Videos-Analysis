@@ -16,38 +16,38 @@ To analyse Youtube Trending Videos dataset to find out what kind of videos trend
 
 ### Data Visualization:
 #### 1. Which are the top 10 most watched trending videos?
-![](top 10 most watched vids.png)
+![top 10 most watched vids](https://user-images.githubusercontent.com/32385448/173170627-429f8b7e-7a50-4769-9e5f-bf7ab22609bb.png)
 
 #### 2. How does the like count affect views count?
-![](like vs views.png)
+![likes vs views](https://user-images.githubusercontent.com/32385448/173170629-1fa76c53-06d0-4e35-97f0-b6bed4f575c1.png)
 
 #### 3. What are the most common words in the titles of videos which trend?
-![](common words in title.png)
+![common words in title](https://user-images.githubusercontent.com/32385448/173170630-396bed0b-df32-4b62-84eb-025d6cf1a2a5.png)
 
 
 #### 4. Which channels have the largest number of trending videos?
-![](top channels.png)
+![top channels](https://user-images.githubusercontent.com/32385448/173170631-f0570751-b06d-447a-b885-7166a4ee040a.png)
 
 
 #### 5. Which video category has the largest number of trending videos?
-![](top categories.png)
+![top categories](https://user-images.githubusercontent.com/32385448/173170633-8e1c51d1-4b3c-4d61-9782-7c338d0eeb04.png)
 
 
 #### 6. Which day of the week are trending videos being published?
-![](publishing day.png)
+![publishing day](https://user-images.githubusercontent.com/32385448/173170634-83883e95-4a4d-47b4-bede-c7bcc6ffc551.png)
 
 
 #### 7. What time of the day are trending videos being published?
-![](publishing time.png)
+![publishing time](https://user-images.githubusercontent.com/32385448/173170635-845bcc36-9be4-4e4b-ad66-9e5c16e50602.png)
 
 #### 8. How many trending videos have their comments disabled?
-![](comments disabled.png)
+![comments disabled](https://user-images.githubusercontent.com/32385448/173170636-8b683212-936b-4452-b907-0ff41922a558.png)
 
 #### 9. How many trending videos have their ratings disabled?
-![](ratings disabled.png)
+![ratings disabled](https://user-images.githubusercontent.com/32385448/173170638-ffeaef1c-40a2-4639-bec9-f02aee3e4ddd.png)
 
-#### 6. Accuracy score of various regression models on predicting views on the basis of likes of a video.
-![](accuracy results.png)
+#### 10. Accuracy score of various regression models on predicting views on the basis of likes of a video.
+![accuracy result](https://user-images.githubusercontent.com/32385448/173170639-5d6543cc-7a01-4992-b54e-e0b5cdfca5c0.png)
 
 ### Tools & Technology used:
 - Python
